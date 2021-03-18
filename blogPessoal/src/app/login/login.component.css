@@ -1,0 +1,7 @@
+#img-bg {
+    background-image: url('https://miro.medium.com/max/875/0*aBZBHU9Miu3MO1aH');
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
